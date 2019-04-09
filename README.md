@@ -1,1 +1,3 @@
-# EdgarMartinez.github.io
+<?php
+header ("Location:index.html")
+?>
